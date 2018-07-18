@@ -10,3 +10,5 @@ test
 aiueo
 
 aiueo
+
+kakiku
