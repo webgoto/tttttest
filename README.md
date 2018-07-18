@@ -12,3 +12,5 @@ aiueo
 aiueo
 
 kakiku
+
+vscode
